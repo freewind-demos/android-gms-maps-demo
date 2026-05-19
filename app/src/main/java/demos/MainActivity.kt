@@ -1,4 +1,4 @@
-package demos
+package demos.android.gms.maps.demo
 
 import android.os.Bundle
 import android.widget.TextView
